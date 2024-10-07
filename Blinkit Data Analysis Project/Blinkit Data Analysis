@@ -1,3 +1,18 @@
 Blinkit Data Analysis 
 
 To conduct a comprehensive analysis of Blinkit’s sales performance, customer satisfaction, and inventory distribution to identify key insights and opportunities for optimization using various KPIS and visualizations in Power BI.
+This project focuses on developing interactive dashboards to analyze a decade of sales data, with a specific emphasis on dairy products. The dashboard presents key metrics such as total sales, yearly sales trends, fat content distribution, and sales by location type. Additionally, it offers an overview of all product categories, showcasing total sales, item rankings, sales trends, and similar distribution metrics for fat content and location. These dashboards enable data-driven decision-making by visually representing sales performance and product distribution, helping stakeholders identify market trends and optimize inventory management.
+Steps Involved:
+1. Cleaning Data
+Removing unnecessary columns and duplicates.
+Handling missing values.
+Changing data types as needed.
+2. Data Analysis
+Used DAX functions, measures, and calculated columns to perform detailed analysis.
+3. Mertics
+The total number of sales transactions made is 1.20M Sales.
+The average customer rating out of 5 is 3.92.
+The total number of items available for sale is 9K.
+4. Insights:
+Fruits and Vegetables has the highest sales of 178K.
+Snack Foods has 173K sales is second highest.
